@@ -13,9 +13,9 @@ The models below define space-time random fields Z(s,t) by advecting X_S in diff
 
 ### Frozen Field (FF)
 A spatial field advected by constant velocity v:
-```
-Z(s,t) = X_S(s - vt)
-```
+
+$$Z(s,t) = X_S(s - vt)$$
+
 Covariance: c_ZZ(h,τ) = c_XX(h - vτ)  
 Spectrum: S_ZZ(k,ω) = S_XX(k) · δ(ω + k⊤v)
 
