@@ -12,7 +12,7 @@ Let $$X_S(s)$$ be a spatial random field with covariance function $$c_XX(h)$$ an
 The models below define space-time random fields Z(s,t) by advecting X_S in different ways:
 
 ### Frozen Field (FF)
-A spatial field advected by constant velocity v:
+A spatial field advected by constant velocity $v$:
 
 $$Z(s,t) = X_S(s - vt)$$
 
