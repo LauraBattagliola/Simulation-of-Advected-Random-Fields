@@ -9,7 +9,7 @@ Preprint available [here](https://arxiv.org/abs/2303.02756).
 
 Let $$X_S(s)$$ be a spatial random field with covariance function $$c_XX(h)$$ and spectral density $$S_{XX}(k)$$, where $$s, h \in \mathbb{R}^2$$ are spatial coordinates and $$k \in \mathbb{R}^2$$ is the wavenumber.
 
-The models below define space-time random fields Z(s,t) by advecting X_S in different ways:
+The models below define space-time random fields Z(s,t) by advecting X_S in different ways. Specifically, the Frozen Field model is the simplest but most unrealistic one, already studied in the literature. We propose generalizations of it such that the perfect correlation in time is broken.
 
 ### Frozen Field (FF)
 A spatial field advected by constant velocity $v$:
