@@ -14,29 +14,29 @@ The models below define space-time random fields Z(s,t) by advecting X_S in diff
 ### Frozen Field (FF)
 A spatial field advected by constant velocity $v$:
 
-$$Z(s,t) = X_S(s - vt)$$
+$$Z(s,t) = X_S(s - vt).$$
 
-Covariance: $c_{ZZ}(h,\tau) = c_{XX}(h - v\tau)$  
-Spectrum: $S_{ZZ}(k,\omega) = S_{XX}(k) · \delta(\omega + k^\top v)$
+Covariance: $c_{ZZ}(h,\tau) = c_{XX}(h - v\tau).$  
+Spectrum: $S_{ZZ}(k,\omega) = S_{XX}(k) · \delta(\omega + k^\top v).$
 
 ### Distributed FF
 A weighted superposition of frozen fields with different velocities $\{ v_i\}_i$:
 
-$$Z(s,t) = \sum_{i} p_i X_S(s - v_it)$$
+$$Z(s,t) = \sum_{i} p_i X_S(s - v_it).$$
 
 The velocity spread introduces diffusive behavior and breaks perfect temporal correlation.
 
 ### Evolving FF
 A frozen field with spatially and temporally varying velocity:
 
-$$Z(s,t) = X_S(s - v(s,t)·t)$$
+$$Z(s,t) = X_S(s - v(s,t)·t).$$
 
 Allows local deformations like rotation or stretching.
 
 ### Damped FF
 A spectral generalization with tunable temporal decorrelation:
 
-$$S_{ZZ}(k,\omega) = S_{XX}(k) · B(k,\omega; v,\beta)^{-\alpha}$$
+$$S_{ZZ}(k,\omega) = S_{XX}(k) · B(k,\omega; v,\beta)^{-\alpha}.$$
 
 where $B(k,\omega; v,\beta)^{-\alpha} = (\omega + k^\top v)^2 + (\beta \omega)^2$, with persistence parameter $\alpha>1/2$ and damping parameter $\beta \geq 0$.
 
