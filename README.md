@@ -1,7 +1,8 @@
 # Spatio-Temporal Transport Models
 
-R code for "Modeling Spatio-Temporal Transport: From Rigid Advection to Realistic Dynamics"  
-M.L. Battagliola and S.C. Olhede
+'R' code for *Modeling Spatio-Temporal Transport: From Rigid Advection to Realistic Dynamics*  
+M.L. Battagliola and S.C. Olhede 
+Preprint available [here](https://example.com](https://arxiv.org/pdf/2303.02756)
 
 ## Files
 
