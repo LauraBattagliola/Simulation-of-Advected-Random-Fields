@@ -22,7 +22,3 @@ install.packages(c("ggplot2", "dplyr", "tidyr", "patchwork", "MASS",
                    "circular", "reshape2", "gridExtra", "ReacTran"))
 ```
 
-## Contact
-
-- laura.battagliola@itam.mx
-- sofia.olhede@epfl.ch
