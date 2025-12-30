@@ -7,7 +7,7 @@ Preprint available [here](https://arxiv.org/abs/2303.02756).
 
 ## Mathematical Background
 
-Let X_S(s) be a spatial random field with covariance function c_XX(h) and spectral density S_XX(k), where s, h ∈ ℝ² are spatial coordinates and k ∈ ℝ² is the wavenumber.
+Let $$X_S(s)$$ be a spatial random field with covariance function $$c_XX(h)$$ and spectral density $$S_XX(k)$$, where $$s, h \in \mathbb{R}^2$$ are spatial coordinates and $$k \in \mathbb{R}^2$$ is the wavenumber.
 
 The models below define space-time random fields Z(s,t) by advecting X_S in different ways:
 
