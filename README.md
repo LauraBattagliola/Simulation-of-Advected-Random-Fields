@@ -2,7 +2,8 @@
 
 'R' code for *Modeling Spatio-Temporal Transport: From Rigid Advection to Realistic Dynamics*  
 M.L. Battagliola and S.C. Olhede 
-Preprint available [here](https://example.com](https://arxiv.org/pdf/2303.02756)
+
+Preprint available [here](https://arxiv.org/abs/2303.02756)
 
 ## Files
 
