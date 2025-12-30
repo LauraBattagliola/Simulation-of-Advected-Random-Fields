@@ -16,8 +16,8 @@ A spatial field advected by constant velocity v:
 
 $$Z(s,t) = X_S(s - vt)$$
 
-Covariance: $$c_ZZ(h,\tau) = c_XX(h - v\tau)$$  
-Spectrum: $$S_ZZ(k,\omega) = S_XX(k) · \delta(\omega + k^\top v)$$
+Covariance: $c_ZZ(h,\tau) = c_XX(h - v\tau)$  
+Spectrum: $S_ZZ(k,\omega) = S_XX(k) · \delta(\omega + k^\top v)$
 
 ### Distributed FF
 A weighted superposition of frozen fields with different velocities:
